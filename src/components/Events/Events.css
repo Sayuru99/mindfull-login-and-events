@@ -1,7 +1,12 @@
-.head   {
-    width: 100;
+.wrapper {
     display: flex;
-    padding: 0 0 10px 250px;
+    justify-content: center;
+}
+
+.head   {
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .pop {
